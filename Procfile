@@ -1,0 +1,1 @@
+web: gunicorn tutorial_django_innit.wsgi --log-file -
