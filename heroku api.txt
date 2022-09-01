@@ -1,0 +1,2 @@
+HEROKU_API_KEY: c2bf2208-75d9-487d-ba57-3038209f1701
+HEROKU_APP_NAME: django-exercise-by-akb

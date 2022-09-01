@@ -1,1 +1,1 @@
-web: gunicorn tutorial_django_innit.wsgi --log-file -
+web: gunicorn real_proyek.wsgi --log-file -
